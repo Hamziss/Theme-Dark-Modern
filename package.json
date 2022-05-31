@@ -20,6 +20,7 @@
             "path": "./themes/Theme Trinity-color-theme.json"
         }]
     },
+    "icon": "./laylow.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Hamziss/Theme-Dark-Modern"
