@@ -1,6 +1,6 @@
 {
-    "name": "theme-trinity",
-    "displayName": "Theme Trinity",
+    "name": "theme-dark-modern",
+    "displayName": "Theme Dark Modern",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -9,13 +9,14 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme", "dark theme", "Modern", "UI Theme", "Soft Theme", "Theme Color", "Simple Theme"
+    ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Theme Trinity",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Theme Trinity-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Theme Trinity",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Theme Trinity-color-theme.json"
+        }]
     }
 }
