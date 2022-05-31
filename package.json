@@ -1,6 +1,7 @@
 {
     "name": "theme-dark-modern",
     "displayName": "Theme Dark Modern",
+    "publisher": "HamzaChebbah",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -18,5 +19,9 @@
             "uiTheme": "vs-dark",
             "path": "./themes/Theme Trinity-color-theme.json"
         }]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Hamziss/Theme-Dark-Modern"
     }
 }
