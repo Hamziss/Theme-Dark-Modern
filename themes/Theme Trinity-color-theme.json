@@ -109,7 +109,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#B37E69"
+        "foreground": "#74a35e"
       }
     },
     {
@@ -315,7 +315,7 @@
       "name": "css property-name",
       "scope": "support.type.vendored.property-name.css",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#7DD2EC"
       }
     },
     {
@@ -720,9 +720,9 @@
     },
     {
       "name": "Support type",
-      "scope": "support.constant.font-name",
+      "scope": "support.constant.font-name,punctuation.definition.string.end.css,punctuation.definition.string.begin.css,meta.property-value.css",
       "settings": {
-        "foreground": "#89a557"
+        "foreground": "#E08265"
       }
     },
     {
@@ -734,7 +734,7 @@
     },
     {
       "name": "Strings",
-      "scope": "string",
+      "scope": "string,punctuation.definition.string.end.html,punctuation.definition.string.begin.html",
       "settings": {
         "foreground": "#be7254"
       }
@@ -1858,9 +1858,16 @@
       }
     },{	
       "name": "importcontrol",
-      "scope": "keyword.control.from,keyword.control.import,support.type.object.module",
+      "scope": "keyword.control.from,keyword.control.import,support.type.object.module,support.type.object.module.js",
       "settings": {
         "foreground": "#977cdc"
+      }
+    },
+    {	
+      "name": "stringjsx",
+      "scope": "string.quoted.double.js,string.quoted.single.js.jsx,meta.import.js,string.template.js,string.template.js.jsx,string.quoted.double.jsx,string.quoted.double.json",
+      "settings": {
+        "foreground": "#74a35e"
       }
     }
   ],
