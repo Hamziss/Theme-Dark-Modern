@@ -1994,7 +1994,7 @@
     "diffEditor.insertedTextBackground": "#42a11733",
     "diffEditor.removedTextBackground": "#bc000033",
     "diffEditor.border": "#444444",
-    "panel.background": "#0a0a0a",
+    "panel.background": "#0d0d0d",
     "panel.border": "#80808059",
     "panelTitle.activeBorder": "#e7e7e7",
     "panelTitle.activeForeground": "#e7e7e7",
