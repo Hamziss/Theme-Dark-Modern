@@ -17,6 +17,11 @@ VSCode theme with a nice and modern syntax colors for better logic understanding
 ### Full Screen :
 ![ScreenShot](./img/FullScreen.png)
 
+### CSS :
+<br/>
+
+![ScreenShot](./img/css.png)
+
 
 
 
