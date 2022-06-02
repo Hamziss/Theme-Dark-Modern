@@ -1858,14 +1858,14 @@
       }
     },{	
       "name": "importcontrol",
-      "scope": "keyword.control.from,keyword.control.import,support.type.object.module,support.type.object.module.js",
+      "scope": "keyword.control.from,keyword.control.import,support.type.object.module,support.type.object.module.js,keyword.control.export.js.jsx,keyword.control.default.js.jsx",
       "settings": {
-        "foreground": "#977cdc"
+        "foreground": "#977cdc","fontStyle": "italic"
       }
     },
     {	
       "name": "stringjsx",
-      "scope": "string.quoted.double.js,string.quoted.single.js.jsx,meta.import.js,string.template.js,string.template.js.jsx,string.quoted.double.jsx,string.quoted.double.json",
+      "scope": "string.quoted.single.js,string.quoted.double.js,string.quoted.single.js.jsx,meta.import.js,string.template.js,string.template.js.jsx,string.quoted.double.jsx,string.quoted.double.json",
       "settings": {
         "foreground": "#74a35e"
       }
