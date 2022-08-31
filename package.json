@@ -1,6 +1,6 @@
 {
-    "name": "theme-dark-modern",
-    "displayName": "Theme Dark Modern",
+    "name": "theme-ocean-trinity",
+    "displayName": "Theme Ocean Trinity",
     "publisher": "HamzaChebbah",
     "description": "",
     "version": "0.16.0",
@@ -14,19 +14,22 @@
         "theme",
         "dark theme",
         "Modern",
+        "VSCODE Theme",
+        "Ocean Theme",
+        "Trinity Theme",
+        "Trinity",
+        "Ocean",
         "UI Theme",
         "Soft Theme",
         "Theme Color",
         "Simple Theme"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Theme Trinity",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Theme Trinity-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Theme Trinity",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Trinity Ocean Theme.json"
+        }]
     },
     "icon": "laylow.png",
     "repository": {
